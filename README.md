@@ -1,2 +1,1 @@
-# Prova-2Bimestre
-Implementação das questões 1 e 2 da avaliação do segundo bimestre
+Agradecimentos especiais a Arlene Pelenda e ao Rafael Shaiene que me ajudaram e me tiraram dúvidas durante o desenvolvimento.
